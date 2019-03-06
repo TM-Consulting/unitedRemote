@@ -23,9 +23,3 @@ quiz.unitedRemote.com.unitedRemoteAndroid: the main package : contain the activi
 
 
 
-PS: this project is made in 2 hours, sorry if i didi't find time,  and for iOS dev I'm a beginner but I've create one app the test will take a lot of time from me, I'm sorry but I didn't find time to finish it because of my work.
-
-
-
-// So excited to join you 
-
